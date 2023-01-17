@@ -1,0 +1,30 @@
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\bin\Debug\ETSForm.exe.config
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\bin\Debug\ETSForm.exe
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\bin\Debug\ETSForm.pdb
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\bin\Debug\ETS_Project.dll
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\bin\Debug\ETS_Project.pdb
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\obj\Debug\ETSTelethon.csproj.AssemblyReference.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\obj\Debug\ETSTelethon.csproj.SuggestedBindingRedirects.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\obj\Debug\ETSForm.Login.resources
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\obj\Debug\ETSForm.mainForm.resources
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\obj\Debug\ETSForm.Properties.Resources.resources
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\obj\Debug\ETSTelethon.csproj.GenerateResource.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\obj\Debug\ETSTelethon.csproj.CoreCompileInputs.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\obj\Debug\ETSTelethon.csproj.CopyComplete
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\obj\Debug\ETSForm.exe
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\ETSForm\ETSForm\obj\Debug\ETSForm.pdb
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\bin\Debug\ETSForm.exe.config
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\bin\Debug\ETSForm.exe
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\bin\Debug\ETSForm.pdb
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\bin\Debug\ETS_Project.dll
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\bin\Debug\ETS_Project.pdb
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\obj\Debug\ETSTelethon.csproj.AssemblyReference.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\obj\Debug\ETSTelethon.csproj.SuggestedBindingRedirects.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\obj\Debug\ETSForm.Login.resources
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\obj\Debug\ETSForm.mainForm.resources
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\obj\Debug\ETSForm.Properties.Resources.resources
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\obj\Debug\ETSTelethon.csproj.GenerateResource.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\obj\Debug\ETSTelethon.csproj.CoreCompileInputs.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\obj\Debug\ETSTelethon.csproj.CopyComplete
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\obj\Debug\ETSForm.exe
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Electronic Telethon Systems\ETSForm\ETSForm\obj\Debug\ETSForm.pdb
